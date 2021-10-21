@@ -1,2 +1,2 @@
 # Exercise-Simple-Calculator
-Simple Calculator program.
+DIT 202 Simple Calculator program.
