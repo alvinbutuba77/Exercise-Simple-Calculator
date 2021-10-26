@@ -1,6 +1,6 @@
 /*
     Project: Simple Calculator
-    Author : O. Butuba DSE-01-0786/2021
+    Author : Obalu Butuba DSE-01-0786/2021
     Date   : Oct 21, 2021
     Compiler : GCC
     Language : C99
